@@ -6,9 +6,8 @@
     <title>Hello World</title>
 </head>
 <body>
-   <script type="text/javascript">
-       
-   </script>
+	<script type="text/javascript">
+	</script>
 </body>
 
 </html>
