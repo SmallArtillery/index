@@ -7,6 +7,7 @@
 </head>
 <body>
 	<script type="text/javascript">
+		console.log('test GitHub');
 	</script>
 </body>
 
